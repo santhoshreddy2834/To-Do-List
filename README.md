@@ -7,3 +7,5 @@ Key features include task addition, completion tracking, deletion, and real-time
 
 This project demonstrates strong front-end development skills, UI/UX design understanding, and the ability to create lightweight yet functional web apps — making it an ideal showcase for technical interviews or portfolios.
 
+#How to run 
+*You Can Directly GO LIVE in Vscode platform.
